@@ -1,5 +1,5 @@
 # LeZip
-Simple compression &amp; extraction program in C
+Simple compression &amp; extraction program in C - Educational Purposes
 
-<img src="assets/LeZip.png" width="900" height="2700">
+<img src="assets/LeZip.png" width="300">
 
